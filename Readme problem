@@ -1,0 +1,1 @@
+I ran ```sphinx-apidoc -f -o source/ ../code/``` in the docs folder of each code but just because of the __init__.py file in the folder with init file the index page generated is different. How can I make it the same to the folder with no init file.
